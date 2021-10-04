@@ -197,10 +197,9 @@ h1 {
     .container-one {
     display:grid;
     grid-template-columns: 100%; 
-    
     }
     
-    .divbox {
+    div.box {
     background-color: blue;
     padding: 35px;
     text-align: center;
