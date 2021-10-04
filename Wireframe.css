@@ -21,17 +21,19 @@ h1 {
     font-weight:bold
 }
 
+.grid-container-one {
+    display: grid;
+    grid-template-columns: 100%;
+}
 .header {
     background-color: lightblue;
      text-align: center;
     padding: 35px;
 }    
 
+
+
 .grid-container-two {
-    display: grid;
-    grid-template-columns: 100%;
-}
-.grid-container-one {
     display: grid;
     grid-template-columns: 50% 50%;
     padding: 0px;
