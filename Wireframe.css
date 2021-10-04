@@ -189,3 +189,19 @@ h1 {
     border-color: orange;
     /* border-image: initial; */
 }
+
+
+/* Lily's code */
+
+
+    .container-one {
+    display:grid;
+    grid-template-columns: 100%; 
+    
+    }
+    
+    div.box {
+    background-color: lightseagreen;
+    padding: 35px;
+    text-align: center;
+    }
