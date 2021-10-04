@@ -75,7 +75,7 @@ h1 {
     padding: 1px;
 }
 
-container-one {
+.container-one {
     display: grid;
     grid-template-columns: 33% 34% 33%;
 }
