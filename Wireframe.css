@@ -200,8 +200,8 @@ h1 {
     
     }
     
-    div.box {
-    background-color: lightseagreen;
+    .divbox {
+    background-color: blue;
     padding: 35px;
     text-align: center;
     }
