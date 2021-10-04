@@ -11,7 +11,7 @@ h1 {
    	    color: white;
 }
 
-h1 {
+/* h1 {
      display: block;
      font-size: 2em;
 	 margin-block-start: 0.67em;
@@ -19,7 +19,7 @@ h1 {
      margin-inline-start: 0px;
 	margin-inline-end: 0px;
     font-weight:bold
-}
+} */
 
 .grid-container-one {
     display: grid;
