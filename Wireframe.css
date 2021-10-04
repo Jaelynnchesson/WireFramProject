@@ -27,7 +27,7 @@ h1 {
 }
 .header {
     background-color: lightblue;
-     text-align: center;
+    text-align: center;
     padding: 35px;
 }    
 
@@ -112,7 +112,7 @@ h1 {
     border-width: 4px;
     border-style: solid;
     border-color: orange;
-    border-image: initial;
+    /* border-image: initial; */
 }
 .img {
     background-color: rgb(224, 175, 85);
@@ -121,7 +121,7 @@ h1 {
     border-width: 4px;
     border-style: solid;
     border-color: orange;
-    border-image: initial;
+    /* border-image: initial; */
 }
 
 .container-three {
@@ -156,7 +156,7 @@ h1 {
     border-width: 4px;
     border-style: solid;
     border-color: orange;
-    border-image: initial;
+    /* border-image: initial; */
     grid-column: 3 / auto;
     grid-row: 1 / 3;
 }
