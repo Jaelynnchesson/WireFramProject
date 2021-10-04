@@ -194,12 +194,12 @@ h1 {
 /* Lily's code */
 
 
-    .container-one {
+.container-one {
     display:grid;
     grid-template-columns: 100%; 
     }
     
-    div.box {
+.boxone{
     background-color: blue;
     padding: 35px;
     text-align: center;
