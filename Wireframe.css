@@ -190,17 +190,3 @@ h1 {
     /* border-image: initial; */
 }
 
-
-/* Lily's code */
-
-
-.container-one {
-    display:grid;
-    grid-template-columns: 100%; 
-    }
-    
-.boxone{
-    background-color: blue;
-    padding: 35px;
-    text-align: center;
-    }
